@@ -1,5 +1,4 @@
 from pydantic import BaseModel
-from elset import SatelliteElementSet
 from enum import Enum
 from typing import Union
 from datetime import datetime
